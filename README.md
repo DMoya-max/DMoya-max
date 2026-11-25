@@ -2,14 +2,6 @@
 
 <img src="./github-banner.gif" alt="Daniel Jose Moya Quiroz - Full-Stack Software Developer" width="100%" />
 
-<br/><br/>
-
-[![PORTAFOLIO WEB](https://img.shields.io/badge/PORTAFOLIO-VISITAR-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=09090B)](https://portafolio-dmoya.vercel.app/)
-[![GMAIL](https://img.shields.io/badge/CONTACTO-EMAIL-09090B?style=for-the-badge&logo=gmail&logoColor=EF4444&labelColor=DC2626)](mailto:dmoya1873@gmail.com)
-[![GITHUB](https://img.shields.io/badge/GITHUB-PERFIL-09090B?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=DC2626)](https://github.com/DMoya-max)
-
-<br/><br/>
-
 <img src="./tech-stack.gif" alt="Stack tecnológico: Python, Django, Node.js, React, Next.js, bases de datos y herramientas" width="100%" />
 
 <br/><br/>
