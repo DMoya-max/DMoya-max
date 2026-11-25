@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Banner animado SVG con estética negro mate y rojo metálico -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:7F1D1D,100:DC2626&height=180&section=header&text=Daniel%20Jos%C3%A9%20Moya%20Quiroz&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Software%20Developer%20%7C%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20React%20%E2%80%A2%20Next.js&descAlignY=60&descSize=16" width="100%" />
+<div align="center">
+  <img src="./banner.svg" alt="Daniel José Moya Quiroz - Araña Binaria" width="100%" />
+</div>
 
 [![Portafolio Web](https://img.shields.io/badge/PORTAFOLIO_WEB-VISITAR-DC2626?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-dmoya.vercel.app/)
 [![Gmail](https://img.shields.io/badge/CONTACTO-dmoya1873@gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=EF4444)](mailto:dmoya1873@gmail.com)
