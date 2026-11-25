@@ -6,42 +6,27 @@
 
 <br/><br/>
 
-<table width="100%">
-  <tr>
-    <td width="33.33%" align="center" valign="top">
-
+<table>
+<tr>
+<td width="33.33%" align="center" valign="top">
 <img src="./project-sigif.svg" alt="SIGIF" width="100%" />
-
-<p align="center">
-
-[![VER](https://img.shields.io/badge/VER-DC2626?style=for-the-badge&logo=vercel&logoColor=white)](https://sigif-final.vercel.app/) [![CÓDIGO](https://img.shields.io/badge/C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444)](https://github.com/DMoya-max/sigif-final)
-
-</p>
-
-    </td>
-    <td width="33.33%" align="center" valign="top">
-
+<br/><br/>
+<a href="https://sigif-final.vercel.app/"><img src="https://img.shields.io/badge/VER-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver SIGIF" /></a>
+<a href="https://github.com/DMoya-max/sigif-final"><img src="https://img.shields.io/badge/C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444" alt="Código SIGIF" /></a>
+</td>
+<td width="33.33%" align="center" valign="top">
 <img src="./project-velvet.svg" alt="Velvet Beauty" width="100%" />
-
-<p align="center">
-
-[![VER](https://img.shields.io/badge/VER-DC2626?style=for-the-badge&logo=netlify&logoColor=white)](https://velvetbeauty-catalogo.netlify.app/) [![CÓDIGO](https://img.shields.io/badge/C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444)](https://github.com/DMoya-max/Velvet-Beauty)
-
-</p>
-
-    </td>
-    <td width="33.33%" align="center" valign="top">
-
+<br/><br/>
+<a href="https://velvetbeauty-catalogo.netlify.app/"><img src="https://img.shields.io/badge/VER-DC2626?style=for-the-badge&logo=netlify&logoColor=white" alt="Ver Velvet Beauty" /></a>
+<a href="https://github.com/DMoya-max/Velvet-Beauty"><img src="https://img.shields.io/badge/C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444" alt="Código Velvet Beauty" /></a>
+</td>
+<td width="33.33%" align="center" valign="top">
 <img src="./project-portfolio.svg" alt="Portafolio Personal" width="100%" />
-
-<p align="center">
-
-[![VER](https://img.shields.io/badge/VER-DC2626?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-dmoya.vercel.app) [![CÓDIGO](https://img.shields.io/badge/C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444)](https://github.com/DMoya-max/portafolio)
-
-</p>
-
-    </td>
-  </tr>
+<br/><br/>
+<a href="https://portafolio-dmoya.vercel.app"><img src="https://img.shields.io/badge/VER-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Portafolio" /></a>
+<a href="https://github.com/DMoya-max/portafolio"><img src="https://img.shields.io/badge/C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444" alt="Código Portafolio" /></a>
+</td>
+</tr>
 </table>
 
 <br/><br/>
