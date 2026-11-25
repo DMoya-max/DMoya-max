@@ -23,32 +23,11 @@ Desarrollador de software Full-Stack enfocado en construir aplicaciones web y m�
 
 ---
 
-### `// STACK TECNOLÓGICO`
+### `// Tech Stack`
 
 <div align="center">
-
-**Backend & APIs**  
-![Python](https://img.shields.io/badge/Python-121215?style=for-the-badge&logo=python&logoColor=EF4444)
-![Django](https://img.shields.io/badge/Django-121215?style=for-the-badge&logo=django&logoColor=EF4444)
-![Node.js](https://img.shields.io/badge/Node.js-121215?style=for-the-badge&logo=nodedotjs&logoColor=EF4444)
-![NestJS](https://img.shields.io/badge/NestJS-121215?style=for-the-badge&logo=nestjs&logoColor=EF4444)
-
-**Frontend & Móvil**  
-![React](https://img.shields.io/badge/React-121215?style=for-the-badge&logo=react&logoColor=EF4444)
-![Next.js](https://img.shields.io/badge/Next.js-121215?style=for-the-badge&logo=nextdotjs&logoColor=EF4444)
-![TypeScript](https://img.shields.io/badge/TypeScript-121215?style=for-the-badge&logo=typescript&logoColor=EF4444)
-![JavaScript](https://img.shields.io/badge/JavaScript-121215?style=for-the-badge&logo=javascript&logoColor=EF4444)
-![Flutter](https://img.shields.io/badge/Flutter-121215?style=for-the-badge&logo=flutter&logoColor=EF4444)
-
-**Bases de Datos & Herramientas**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121215?style=for-the-badge&logo=postgresql&logoColor=EF4444)
-![MySQL](https://img.shields.io/badge/MySQL-121215?style=for-the-badge&logo=mysql&logoColor=EF4444)
-![MongoDB](https://img.shields.io/badge/MongoDB-121215?style=for-the-badge&logo=mongodb&logoColor=EF4444)
-![Docker](https://img.shields.io/badge/Docker-121215?style=for-the-badge&logo=docker&logoColor=EF4444)
-![Git](https://img.shields.io/badge/Git-121215?style=for-the-badge&logo=git&logoColor=EF4444)
-
+  <img src="./tech-stack.svg" alt="Stack Tecnológico - Daniel José Moya Quiroz" width="100%" />
 </div>
-
 ---
 
 ### `// PROYECTOS DESTACADOS`
