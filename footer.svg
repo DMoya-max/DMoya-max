@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Daniel José Moya Quiroz">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Footer">
   <defs>
     <linearGradient id="waveStroke" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#7F1D1D"/>
@@ -22,19 +22,4 @@
   <g clip-path="url(#waveClip)">
     <ellipse cx="600" cy="150" rx="310" ry="64" fill="url(#centerGlow)"/>
   </g>
-
-  <g font-family="'Courier New',Consolas,monospace" font-size="10" fill="#EF4444" opacity="0.09">
-    <text x="28" y="126">01001011 00110101</text>
-    <text x="28" y="144">11010010 01001101</text>
-    <text x="28" y="162">00101101 11010010</text>
-    <text x="48" y="180">10110100 00101011</text>
-    <text x="1040" y="124">00110101 01001011</text>
-    <text x="1040" y="142">01001101 11010010</text>
-    <text x="1040" y="160">11010010 00101101</text>
-    <text x="1020" y="178">00101011 10110100</text>
-  </g>
-
-  <text x="600" y="128" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="10" letter-spacing="1.6" fill="#DC2626" opacity="0.92">// FULL-STACK SOFTWARE DEVELOPER</text>
-  <text x="600" y="158" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="22" font-weight="800" fill="#FAFAFA">Daniel José Moya Quiroz</text>
-  <text x="600" y="180" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="13" fill="#A1A1AA">Medellín, Colombia  •  portafolio-dmoya.vercel.app  •  dmoya1873@gmail.com</text>
 </svg>

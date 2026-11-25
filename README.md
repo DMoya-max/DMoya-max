@@ -38,7 +38,7 @@
 <br/>
 
 <div align="center">
-<img src="./footer.svg" alt="Daniel José Moya Quiroz" width="100%" />
+<img src="./footer.svg" alt="Footer" width="100%" />
 </div>
 
 </div>
