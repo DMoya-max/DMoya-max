@@ -6,7 +6,7 @@
 
 <img src="./tech-stack.gif" alt="Stack tecnológico: Python, Django, Node.js, React, Next.js, bases de datos y herramientas" width="100%" />
 
-<br/><br/>
+<div align="center"><img src="./section-projects-title.svg" alt="Proyectos" width="100%" /></div>
 
 <table>
 <tr>
