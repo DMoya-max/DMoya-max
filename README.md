@@ -31,14 +31,10 @@
 </tr>
 </table>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DMoya-max&amp;bg_color=09090B&amp;color=EF4444&amp;line=DC2626&amp;point=FFFFFF&amp;area=true&amp;hide_border=false&amp;border_color=27272A&amp;custom_title=DMoya-max%20Activity" alt="Gráfica de contribuciones de DMoya-max" width="100%" />
-
 <br/>
 
 <div align="center">
-<img src="./footer.svg" alt="Footer" width="100%" />
+<img src="./footer.gif" alt="Footer" width="100%" />
 </div>
 
 </div>
