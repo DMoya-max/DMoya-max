@@ -31,10 +31,4 @@
 </tr>
 </table>
 
-<br/>
-
-<div align="center">
-<img src="./footer.gif" alt="Footer" width="100%" />
-</div>
-
 </div>
