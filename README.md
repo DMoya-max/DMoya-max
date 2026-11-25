@@ -8,31 +8,37 @@
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="top">
 
 <img src="./project-sigif.svg" alt="SIGIF" width="100%" />
 
-<br/>
+<p align="center">
 
-[![SIGIF Demo](https://img.shields.io/badge/SIGIF-DEMO-DC2626?style=flat-square&logo=vercel&logoColor=white&labelColor=09090B)](https://sigif-final.vercel.app/) &nbsp; [![SIGIF Código](https://img.shields.io/badge/SIGIF-C%C3%93DIGO-09090B?style=flat-square&logo=github&logoColor=EF4444&labelColor=DC2626)](https://github.com/DMoya-max/sigif-final)
+[![VER](https://img.shields.io/badge/VER-DC2626?style=for-the-badge&logo=vercel&logoColor=white)](https://sigif-final.vercel.app/) [![CÓDIGO](https://img.shields.io/badge/C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444)](https://github.com/DMoya-max/sigif-final)
+
+</p>
 
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="top">
 
 <img src="./project-velvet.svg" alt="Velvet Beauty" width="100%" />
 
-<br/>
+<p align="center">
 
-[![Velvet Demo](https://img.shields.io/badge/Velvet-DEMO-DC2626?style=flat-square&logo=netlify&logoColor=white&labelColor=09090B)](https://velvetbeauty-catalogo.netlify.app/) &nbsp; [![Velvet Código](https://img.shields.io/badge/Velvet-C%C3%93DIGO-09090B?style=flat-square&logo=github&logoColor=EF4444&labelColor=DC2626)](https://github.com/DMoya-max/Velvet-Beauty)
+[![VER](https://img.shields.io/badge/VER-DC2626?style=for-the-badge&logo=netlify&logoColor=white)](https://velvetbeauty-catalogo.netlify.app/) [![CÓDIGO](https://img.shields.io/badge/C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444)](https://github.com/DMoya-max/Velvet-Beauty)
+
+</p>
 
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="top">
 
-<img src="./project-portafolio.svg" alt="Portafolio Personal" width="100%" />
+<img src="./project-portfolio.svg" alt="Portafolio Personal" width="100%" />
 
-<br/>
+<p align="center">
 
-[![Portafolio Demo](https://img.shields.io/badge/Portafolio-DEMO-DC2626?style=flat-square&logo=vercel&logoColor=white&labelColor=09090B)](https://portafolio-dmoya.vercel.app) &nbsp; [![Portafolio Código](https://img.shields.io/badge/Portafolio-C%C3%93DIGO-09090B?style=flat-square&logo=github&logoColor=EF4444&labelColor=DC2626)](https://github.com/DMoya-max/portafolio)
+[![VER](https://img.shields.io/badge/VER-DC2626?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-dmoya.vercel.app) [![CÓDIGO](https://img.shields.io/badge/C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444)](https://github.com/DMoya-max/portafolio)
+
+</p>
 
     </td>
   </tr>
