@@ -6,16 +6,49 @@
 
 <br/><br/>
 
-<img src="./projects-cards.svg" alt="Proyectos Destacados" width="100%" />
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+
+<img src="./project-sigif.svg" alt="SIGIF" width="100%" />
 
 <br/>
 
 [![SIGIF Demo](https://img.shields.io/badge/SIGIF%20Demo-DEMO-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=09090B)](https://sigif-final.vercel.app/)
+
+<br/>
+
 [![SIGIF Código](https://img.shields.io/badge/SIGIF%20C%C3%B3digo-C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=DC2626)](https://github.com/DMoya-max/sigif-final)
+
+    </td>
+    <td width="33%" align="center" valign="top">
+
+<img src="./project-velvet.svg" alt="Velvet Beauty" width="100%" />
+
+<br/>
+
 [![Velvet Demo](https://img.shields.io/badge/Velvet%20Demo-DEMO-DC2626?style=for-the-badge&logo=netlify&logoColor=white&labelColor=09090B)](https://velvetbeauty-catalogo.netlify.app/)
+
+<br/>
+
 [![Velvet Código](https://img.shields.io/badge/Velvet%20C%C3%B3digo-C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=DC2626)](https://github.com/DMoya-max/Velvet-Beauty)
+
+    </td>
+    <td width="33%" align="center" valign="top">
+
+<img src="./project-portafolio.svg" alt="Portafolio Personal" width="100%" />
+
+<br/>
+
 [![Portafolio Demo](https://img.shields.io/badge/Portafolio%20Demo-DEMO-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=09090B)](https://portafolio-dmoya.vercel.app)
+
+<br/>
+
 [![Portafolio Código](https://img.shields.io/badge/Portafolio%20C%C3%B3digo-C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=DC2626)](https://github.com/DMoya-max/portafolio)
+
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
