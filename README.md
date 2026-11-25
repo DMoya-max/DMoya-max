@@ -36,14 +36,22 @@
 <br/><br/>
 
 <table>
-  <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=DMoya-max&amp;show_icons=true&amp;title_color=EF4444&amp;text_color=E4E4E7&amp;icon_color=DC2626&amp;bg_color=09090B&amp;border_color=27272A&amp;hide_border=false&amp;cache_seconds=86400" alt="Estadísticas de GitHub" /></td>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMoya-max&amp;layout=donut&amp;title_color=EF4444&amp;text_color=E4E4E7&amp;bg_color=09090B&amp;border_color=27272A&amp;hide_border=false&amp;cache_seconds=86400" alt="Lenguajes más usados" /></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="https://streak-stats.demolab.com/?user=DMoya-max&amp;background=09090B&amp;border=27272A&amp;ring=DC2626&amp;fire=EF4444&amp;currStreakNum=FFFFFF&amp;currStreakLabel=EF4444&amp;sideNums=FFFFFF&amp;sideLabels=A1A1AA" alt="Racha de contribuciones" /></td>
-    <td width="50%"><img src="https://github-profile-trophy.vercel.app/?username=DMoya-max&amp;theme=onedark&amp;no-bg=true&amp;column=3&amp;margin-w=8&amp;margin-h=8" alt="Trofeos de GitHub de DMoya-max" /></td>
-  </tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+<img src="https://github-readme-stats.vercel.app/api?username=DMoya-max&show_icons=true&bg_color=09090B&border_color=27272A&title_color=EF4444&text_color=E4E4E7&icon_color=DC2626" height="185" alt="Estadísticas de GitHub de DMoya-max" />
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMoya-max&layout=donut&bg_color=09090B&border_color=27272A&title_color=EF4444&text_color=E4E4E7" height="185" alt="Lenguajes más usados por DMoya-max" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DMoya-max&background=09090B&border=27272A&stroke=27272A&ring=DC2626&fire=EF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EF4444&sideLabels=A1A1AA&dates=71717A" height="185" alt="Racha de contribuciones de DMoya-max" />
+</td>
+<td width="50%" align="center" valign="middle">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DMoya-max&theme=github_dark" height="185" alt="Resumen de actividad de DMoya-max" />
+</td>
+</tr>
 </table>
 
 </div>
