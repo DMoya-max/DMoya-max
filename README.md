@@ -2,47 +2,17 @@
 
 <img src="./github-banner.gif" alt="Daniel Jose Moya Quiroz - Full-Stack Software Developer" width="100%" />
 
-</div>
-
-## `// About Me`
-
-```js
-const daniel = {
-  name: "Daniel Jose Moya Quiroz",
-  role: "Full-Stack Software Developer",
-  education: "ADSO - SENA (Itagüí)",
-  experience: "Etapa Productiva @ CODERI",
-  location: "Medellín, Colombia",
-  workMode: "Modalidad Mixta",
-  building: ["SIGIF", "Velvet Beauty", "Experiencias Web 3D"],
-};
-```
-
-> "Transformo ideas complejas en soluciones digitales sólidas, funcionales y bien estructuradas, cuidando cada detalle de principio a fin."
->
-> — Daniel Jose Moya Quiroz
-
-## `// Connect With Me`
-
-<div align="center">
+<br/><br/>
 
 [![PORTAFOLIO WEB](https://img.shields.io/badge/PORTAFOLIO-VISITAR-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=09090B)](https://portafolio-dmoya.vercel.app/)
 [![GMAIL](https://img.shields.io/badge/CONTACTO-EMAIL-09090B?style=for-the-badge&logo=gmail&logoColor=EF4444&labelColor=DC2626)](mailto:dmoya1873@gmail.com)
 [![GITHUB](https://img.shields.io/badge/GITHUB-PERFIL-09090B?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=DC2626)](https://github.com/DMoya-max)
 
-</div>
-
-## `// Tech Stack`
-
-<div align="center">
+<br/><br/>
 
 <img src="./tech-stack.gif" alt="Stack tecnológico: Python, Django, Node.js, React, Next.js, bases de datos y herramientas" width="100%" />
 
-</div>
-
-## `// Proyectos Destacados`
-
-<div align="center">
+<br/><br/>
 
 <img src="./projects-cards.svg" alt="Proyectos Destacados" width="100%" />
 
@@ -55,11 +25,7 @@ const daniel = {
 [![Portafolio Demo](https://img.shields.io/badge/Portafolio%20Demo-DEMO-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=09090B)](https://portafolio-dmoya.vercel.app)
 [![Portafolio Código](https://img.shields.io/badge/Portafolio%20C%C3%B3digo-C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=DC2626)](https://github.com/DMoya-max/portafolio)
 
-</div>
-
-## `// Estadísticas de GitHub`
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMoya-max&amp;bg_color=09090B&amp;color=EF4444&amp;line=DC2626&amp;point=FFFFFF&amp;area=true&amp;hide_border=false&amp;border_color=27272A&amp;custom_title=DMoya-max%20Activity" alt="Gráfica de contribuciones de DMoya-max" width="100%" />
 
