@@ -14,11 +14,7 @@
 
 <br/>
 
-[![SIGIF Demo](https://img.shields.io/badge/SIGIF%20Demo-DEMO-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=09090B)](https://sigif-final.vercel.app/)
-
-<br/>
-
-[![SIGIF Código](https://img.shields.io/badge/SIGIF%20C%C3%B3digo-C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=DC2626)](https://github.com/DMoya-max/sigif-final)
+[![SIGIF Demo](https://img.shields.io/badge/SIGIF-DEMO-DC2626?style=flat-square&logo=vercel&logoColor=white&labelColor=09090B)](https://sigif-final.vercel.app/) &nbsp; [![SIGIF Código](https://img.shields.io/badge/SIGIF-C%C3%93DIGO-09090B?style=flat-square&logo=github&logoColor=EF4444&labelColor=DC2626)](https://github.com/DMoya-max/sigif-final)
 
     </td>
     <td width="33%" align="center" valign="top">
@@ -27,11 +23,7 @@
 
 <br/>
 
-[![Velvet Demo](https://img.shields.io/badge/Velvet%20Demo-DEMO-DC2626?style=for-the-badge&logo=netlify&logoColor=white&labelColor=09090B)](https://velvetbeauty-catalogo.netlify.app/)
-
-<br/>
-
-[![Velvet Código](https://img.shields.io/badge/Velvet%20C%C3%B3digo-C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=DC2626)](https://github.com/DMoya-max/Velvet-Beauty)
+[![Velvet Demo](https://img.shields.io/badge/Velvet-DEMO-DC2626?style=flat-square&logo=netlify&logoColor=white&labelColor=09090B)](https://velvetbeauty-catalogo.netlify.app/) &nbsp; [![Velvet Código](https://img.shields.io/badge/Velvet-C%C3%93DIGO-09090B?style=flat-square&logo=github&logoColor=EF4444&labelColor=DC2626)](https://github.com/DMoya-max/Velvet-Beauty)
 
     </td>
     <td width="33%" align="center" valign="top">
@@ -40,11 +32,7 @@
 
 <br/>
 
-[![Portafolio Demo](https://img.shields.io/badge/Portafolio%20Demo-DEMO-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=09090B)](https://portafolio-dmoya.vercel.app)
-
-<br/>
-
-[![Portafolio Código](https://img.shields.io/badge/Portafolio%20C%C3%B3digo-C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=DC2626)](https://github.com/DMoya-max/portafolio)
+[![Portafolio Demo](https://img.shields.io/badge/Portafolio-DEMO-DC2626?style=flat-square&logo=vercel&logoColor=white&labelColor=09090B)](https://portafolio-dmoya.vercel.app) &nbsp; [![Portafolio Código](https://img.shields.io/badge/Portafolio-C%C3%93DIGO-09090B?style=flat-square&logo=github&logoColor=EF4444&labelColor=DC2626)](https://github.com/DMoya-max/portafolio)
 
     </td>
   </tr>
