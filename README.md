@@ -38,11 +38,7 @@
 <br/>
 
 <div align="center">
-<img src="./footer.svg" alt="Footer - Daniel José Moya Quiroz" width="100%" />
-<br/><br/>
-<a href="https://portafolio-dmoya.vercel.app"><img src="https://img.shields.io/badge/PORTAFOLIO_3D-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio 3D" /></a>
-<a href="mailto:dmoya1873@gmail.com"><img src="https://img.shields.io/badge/dmoya1873@gmail.com-09090B?style=for-the-badge&logo=gmail&logoColor=EF4444" alt="Gmail" /></a>
-<a href="https://github.com/DMoya-max"><img src="https://img.shields.io/badge/GITHUB-09090B?style=for-the-badge&logo=github&logoColor=EF4444" alt="GitHub" /></a>
+<img src="./footer.svg" alt="Daniel José Moya Quiroz" width="100%" />
 </div>
 
 </div>
