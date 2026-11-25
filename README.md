@@ -14,10 +14,10 @@
 
 Desarrollador de software Full-Stack enfocado en construir aplicaciones web y móviles escalables, interfaces de alto impacto y arquitecturas limpias.
 
-- 🔭 **Actualmente:** Desarrollando soluciones reales en mi etapa productiva en **CODERI** y perfeccionando aplicaciones Full-Stack.
-- 🎓 **Formación:** Tecnólogo en Análisis y Desarrollo de Software (ADSO) — SENA.
-- ⚡ **Enfoque:** Backend robusto con Python/Django y Node.js/Nest.js, combinado con frontends modernos en React, Next.js y TypeScript.
-- 🤝 **Modalidad:** Disponible para oportunidades en **modalidad mixta** y proyectos freelance.
+- **Actualmente:** Desarrollando soluciones reales en mi etapa productiva en **CODERI** y perfeccionando aplicaciones Full-Stack.
+- **Formación:** Tecnólogo en Análisis y Desarrollo de Software (ADSO) — SENA.
+- **Enfoque:** Backend robusto con Python/Django y Node.js/Nest.js, combinado con frontends modernos en React, Next.js y TypeScript.
+- **Modalidad:** Disponible para oportunidades en **modalidad mixta** y proyectos freelance.
 
 ---
 
