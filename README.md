@@ -2,19 +2,7 @@
 
 <img src="./github-banner.gif" alt="Daniel Jose Moya Quiroz - Full-Stack Software Developer" width="100%" />
 
-<br/><br/>
-
-<div align="center">
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr>
-<td width="35%" align="right"><span style="color:#7F1D1D;opacity:0.85;font-size:18px;letter-spacing:2px">━━━━━━━━━━━━</span></td>
-<td width="30%" align="center"><span style="color:#DC2626;font-size:10px;vertical-align:middle">◆</span>&nbsp;<span style="font-family:'Segoe UI',Inter,Arial,sans-serif;font-size:24px;font-weight:800;letter-spacing:6px;color:#FAFAFA;white-space:nowrap">Tech Stack</span>&nbsp;<span style="color:#DC2626;font-size:10px;vertical-align:middle">◆</span></td>
-<td width="35%" align="left"><span style="color:#7F1D1D;opacity:0.85;font-size:18px;letter-spacing:2px">━━━━━━━━━━━━</span></td>
-</tr>
-</table>
-</div>
-
-<br/><br/>
+<div align="center"><img src="./section-tech-title.svg" alt="Tech Stack" width="100%" /></div>
 
 <img src="./tech-stack.gif" alt="Stack tecnológico: Python, Django, Node.js, React, Next.js, bases de datos y herramientas" width="100%" />
 
