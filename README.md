@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="./github-banner.gif" alt="Daniel Jose Moya Quiroz - Full-Stack Software Developer" width="100%" />
+<img src="./github-banner.gif" alt="Daniel Jose Moya Quiroz - Desarrollador Web" width="100%" />
 
 <br/>
 
-<img src="./hey-daniel.svg" alt="Hey! It's Daniel!" width="100%" />
+<a href="https://portafolio-dmoya.vercel.app">
+<img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&weight=700&size=36&duration=2600&pause=1100&color=EF4444&vCenter=true&width=750&height=65&lines=Hey!+It's+Daniel!;Soy+Desarrollador+Web;Construyo+Experiencias+Web+Modernas;Python+%E2%80%A2+Django+%E2%80%A2+React+%E2%80%A2+Next.js" alt="Hey! It's Daniel!" />
+</a>
 
 ### 👨‍💻 Sobre mí
 
-- 🚀 **Soy un desarrollador web Full-Stack** enfocado en construir aplicaciones modernas, APIs escalables y experiencias web interactivas de principio a fin.
+- 🚀 **Soy Desarrollador Web**, enfocado en construir aplicaciones modernas, APIs escalables y experiencias web interactivas de principio a fin.
 - 💡 Me apasiona explorar nuevas tecnologías y transformar ideas en soluciones digitales sólidas, cuidando tanto el rendimiento como cada detalle visual.
 - 🛠️ Trabajo habitualmente con ecosistemas como **Python, Django, Node.js, React y Next.js**, integrando bases de datos relacionales y NoSQL.
 - 🎮 En mi tiempo libre disfruto jugar videojuegos, experimentar con gráficos 3D en la web y seguir perfeccionando mi arquitectura de software.
