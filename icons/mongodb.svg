@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-label="MongoDB">
+  <defs>
+    <linearGradient id="topRed" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7F1D1D"/>
+      <stop offset="0.18" stop-color="#DC2626"/>
+      <stop offset="0.5" stop-color="#EF4444"/>
+      <stop offset="0.82" stop-color="#DC2626"/>
+      <stop offset="1" stop-color="#7F1D1D"/>
+    </linearGradient>
+    <radialGradient id="iconGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#DC2626" stop-opacity="0.16"/>
+      <stop offset="0.65" stop-color="#DC2626" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#DC2626" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="2" y="2" width="92" height="92" rx="14" fill="#121215" stroke="#27272A" stroke-width="1.2"/>
+  <path d="M18 3.2H78" stroke="url(#topRed)" stroke-width="1.6" stroke-linecap="round"/>
+
+  <circle cx="48" cy="38" r="26" fill="url(#iconGlow)"/>
+  <g transform="translate(30 20) scale(1.5)" fill="#EF4444">
+    <path d="M17.193 9.555c-1.264-5.58-4.252-7.414-4.573-8.115-.28-.394-.53-.954-.735-1.44-.036.495-.055.685-.523 1.184-.723.566-4.438 3.682-4.74 10.02-.282 5.912 4.27 9.435 4.888 9.884l.07.05A73.49 73.49 0 0111.91 24h.481c.114-1.032.284-2.056.51-3.07.417-.296.604-.463.85-.693a11.342 11.342 0 003.639-8.464c.01-.814-.103-1.662-.197-2.218zm-5.336 8.195s0-8.291.275-8.29c.213 0 .49 10.695.49 10.695-.381-.045-.765-1.76-.765-2.405z"/>
+  </g>
+
+  <text x="48" y="78" text-anchor="middle" font-family="Segoe UI, Inter, sans-serif" font-size="11" font-weight="600" fill="#FAFAFA">MongoDB</text>
+</svg>
