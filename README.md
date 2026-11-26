@@ -5,22 +5,22 @@
 <div align="center"><img src="./section-tech-title.svg" alt="Tech Stack" width="100%" /></div>
 
 <div align="center">
-<img src="./icons/python.svg" width="84" alt="Python" />
-<img src="./icons/django.svg" width="84" alt="Django" />
-<img src="./icons/nodejs.svg" width="84" alt="Node.js" />
-<img src="./icons/react.svg" width="84" alt="React" />
-<img src="./icons/nextjs.svg" width="84" alt="Next.js" />
-<img src="./icons/javascript.svg" width="84" alt="JavaScript" />
-<img src="./icons/html5.svg" width="84" alt="HTML5" />
-<img src="./icons/css3.svg" width="84" alt="CSS3" />
+<img src="./icons/python.svg" width="98" alt="Python" />
+<img src="./icons/django.svg" width="98" alt="Django" />
+<img src="./icons/nodejs.svg" width="98" alt="Node.js" />
+<img src="./icons/react.svg" width="98" alt="React" />
+<img src="./icons/nextjs.svg" width="98" alt="Next.js" />
+<img src="./icons/javascript.svg" width="98" alt="JavaScript" />
+<img src="./icons/html5.svg" width="98" alt="HTML5" />
+<img src="./icons/css3.svg" width="98" alt="CSS3" />
 <br/>
-<img src="./icons/postgresql.svg" width="84" alt="PostgreSQL" />
-<img src="./icons/mysql.svg" width="84" alt="MySQL" />
-<img src="./icons/sqlite.svg" width="84" alt="SQLite" />
-<img src="./icons/mongodb.svg" width="84" alt="MongoDB" />
-<img src="./icons/git.svg" width="84" alt="Git" />
-<img src="./icons/github.svg" width="84" alt="GitHub" />
-<img src="./icons/docker.svg" width="84" alt="Docker" />
+<img src="./icons/postgresql.svg" width="98" alt="PostgreSQL" />
+<img src="./icons/mysql.svg" width="98" alt="MySQL" />
+<img src="./icons/sqlite.svg" width="98" alt="SQLite" />
+<img src="./icons/mongodb.svg" width="98" alt="MongoDB" />
+<img src="./icons/git.svg" width="98" alt="Git" />
+<img src="./icons/github.svg" width="98" alt="GitHub" />
+<img src="./icons/docker.svg" width="98" alt="Docker" />
 </div>
 
 <div align="center"><img src="./section-projects-title.svg" alt="Projects" width="100%" /></div>

@@ -1,23 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="70" viewBox="0 0 1100 70" role="img" aria-label="Projects">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="84" viewBox="0 0 1100 84" role="img" aria-label="Proyectos">
   <defs>
     <linearGradient id="leftLine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#DC2626" stop-opacity="0"/>
-      <stop offset="1" stop-color="#DC2626" stop-opacity="0.85"/>
+      <stop offset="0" stop-color="#09090B"/>
+      <stop offset="0.55" stop-color="#DC2626"/>
+      <stop offset="1" stop-color="#EF4444"/>
     </linearGradient>
     <linearGradient id="rightLine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#DC2626" stop-opacity="0.85"/>
-      <stop offset="1" stop-color="#DC2626" stop-opacity="0"/>
+      <stop offset="0" stop-color="#EF4444"/>
+      <stop offset="0.45" stop-color="#DC2626"/>
+      <stop offset="1" stop-color="#09090B"/>
     </linearGradient>
+    <filter id="neonGlow" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
   </defs>
 
-  <rect width="1100" height="70" fill="#09090B"/>
+  <rect width="1100" height="84" fill="#09090B"/>
 
-  <path d="M40 35H410" stroke="url(#leftLine)" stroke-width="1.5"/>
-  <path d="M690 35H1060" stroke="url(#rightLine)" stroke-width="1.5"/>
+  <path d="M40 42H380" stroke="url(#leftLine)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M720 42H1060" stroke="url(#rightLine)" stroke-width="2" stroke-linecap="round"/>
 
-  <path d="M425 31L429 35L425 39L421 35Z" fill="#DC2626"/>
-  <path d="M675 31L679 35L675 39L671 35Z" fill="#DC2626"/>
+  <path d="M400 36L406 42L400 48L394 42Z" fill="#EF4444"/>
+  <path d="M700 36L706 42L700 48L694 42Z" fill="#EF4444"/>
+  <circle cx="400" cy="42" r="1.6" fill="#FFFFFF" opacity="0.9"/>
+  <circle cx="700" cy="42" r="1.6" fill="#FFFFFF" opacity="0.9"/>
 
-  <text x="550" y="44" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="24" font-weight="800" letter-spacing="6" fill="#FAFAFA">PROJECTS</text>
-  <path d="M510 56H590" stroke="#DC2626" stroke-width="1" opacity="0.55"/>
+  <text x="550" y="54" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="30" font-weight="900" letter-spacing="7" fill="#DC2626" opacity="0.55" filter="url(#neonGlow)">PROYECTOS</text>
+  <text x="550" y="54" text-anchor="middle" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="30" font-weight="900" letter-spacing="7" fill="#FFFFFF">PROYECTOS</text>
+
+  <path d="M490 68H610" stroke="#DC2626" stroke-width="1.2" opacity="0.55"/>
 </svg>
