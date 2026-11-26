@@ -4,11 +4,19 @@
 
 <br/>
 
-<div align="center">
-<img src="./section-about-title.svg" alt="Sobre Mí" width="100%" />
+<img src="./hey-daniel.svg" alt="Hey! It's Daniel!" width="100%" />
+
+### 👨‍💻 Sobre mí
+
+- 🚀 **Soy un desarrollador web Full-Stack** enfocado en construir aplicaciones modernas, APIs escalables y experiencias web interactivas de principio a fin.
+- 💡 Me apasiona explorar nuevas tecnologías y transformar ideas en soluciones digitales sólidas, cuidando tanto el rendimiento como cada detalle visual.
+- 🛠️ Trabajo habitualmente con ecosistemas como **Python, Django, Node.js, React y Next.js**, integrando bases de datos relacionales y NoSQL.
+- 🎮 En mi tiempo libre disfruto jugar videojuegos, experimentar con gráficos 3D en la web y seguir perfeccionando mi arquitectura de software.
+- 📬 ¡No dudes en contactarme! Puedes visitar mi **[Portafolio Web 3D](https://portafolio-dmoya.vercel.app)** o escribirme directamente a **[dmoya1873@gmail.com](mailto:dmoya1873@gmail.com)**.
+
 <br/>
-<a href="https://portafolio-dmoya.vercel.app"><img src="./about-card.svg" alt="Sobre Daniel José Moya Quiroz" width="100%" /></a>
-<br/><br/>
+
+<div align="center">
 <a href="https://portafolio-dmoya.vercel.app"><img src="./btn-portafolio.svg" alt="Ver Portafolio" width="210" /></a>
 &nbsp;&nbsp;
 <a href="mailto:dmoya1873@gmail.com"><img src="./btn-correo.svg" alt="Enviar Correo" width="210" /></a>
