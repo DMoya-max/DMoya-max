@@ -28,22 +28,22 @@
 <table>
 <tr>
 <td width="33.33%" align="center" valign="top">
-<img src="./project-sigif.svg" alt="SIGIF" width="100%" />
+<a href="https://sigif-final.vercel.app/"><img src="./project-sigif.svg" alt="SIGIF" width="100%" /></a>
 <br/><br/>
-<a href="https://sigif-final.vercel.app/"><img src="https://img.shields.io/badge/VER-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver SIGIF" /></a>
-<a href="https://github.com/DMoya-max/sigif-final"><img src="https://img.shields.io/badge/C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444" alt="Código SIGIF" /></a>
+<a href="https://sigif-final.vercel.app/"><img src="./btn-ver.svg" alt="Ver SIGIF" width="46%" /></a>
+<a href="https://github.com/DMoya-max/sigif-final"><img src="./btn-codigo.svg" alt="Código SIGIF" width="46%" /></a>
 </td>
 <td width="33.33%" align="center" valign="top">
-<img src="./project-velvet.svg" alt="Velvet Beauty" width="100%" />
+<a href="https://velvetbeauty-catalogo.netlify.app/"><img src="./project-velvet.svg" alt="Velvet Beauty" width="100%" /></a>
 <br/><br/>
-<a href="https://velvetbeauty-catalogo.netlify.app/"><img src="https://img.shields.io/badge/VER-DC2626?style=for-the-badge&logo=netlify&logoColor=white" alt="Ver Velvet Beauty" /></a>
-<a href="https://github.com/DMoya-max/Velvet-Beauty"><img src="https://img.shields.io/badge/C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444" alt="Código Velvet Beauty" /></a>
+<a href="https://velvetbeauty-catalogo.netlify.app/"><img src="./btn-ver.svg" alt="Ver Velvet Beauty" width="46%" /></a>
+<a href="https://github.com/DMoya-max/Velvet-Beauty"><img src="./btn-codigo.svg" alt="Código Velvet Beauty" width="46%" /></a>
 </td>
 <td width="33.33%" align="center" valign="top">
-<img src="./project-portfolio.svg" alt="Portafolio Personal" width="100%" />
+<a href="https://portafolio-dmoya.vercel.app"><img src="./project-portfolio.svg" alt="Portafolio Personal" width="100%" /></a>
 <br/><br/>
-<a href="https://portafolio-dmoya.vercel.app"><img src="https://img.shields.io/badge/VER-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Portafolio" /></a>
-<a href="https://github.com/DMoya-max/portafolio"><img src="https://img.shields.io/badge/C%C3%93DIGO-09090B?style=for-the-badge&logo=github&logoColor=EF4444" alt="Código Portafolio" /></a>
+<a href="https://portafolio-dmoya.vercel.app"><img src="./btn-ver.svg" alt="Ver Portafolio" width="46%" /></a>
+<a href="https://github.com/DMoya-max/portafolio"><img src="./btn-codigo.svg" alt="Código Portafolio" width="46%" /></a>
 </td>
 </tr>
 </table>
