@@ -2,6 +2,18 @@
 
 <img src="./github-banner.gif" alt="Daniel Jose Moya Quiroz - Full-Stack Software Developer" width="100%" />
 
+<br/>
+
+<div align="center">
+<img src="./section-about-title.svg" alt="Sobre Mí" width="100%" />
+<br/>
+<a href="https://portafolio-dmoya.vercel.app"><img src="./about-card.svg" alt="Sobre Daniel José Moya Quiroz" width="100%" /></a>
+<br/><br/>
+<a href="https://portafolio-dmoya.vercel.app"><img src="./btn-portafolio.svg" alt="Ver Portafolio" width="210" /></a>
+&nbsp;&nbsp;
+<a href="mailto:dmoya1873@gmail.com"><img src="./btn-correo.svg" alt="Enviar Correo" width="210" /></a>
+</div>
+
 <div align="center"><img src="./section-tech-title.svg" alt="Tech Stack" width="100%" /></div>
 
 <div align="center">
