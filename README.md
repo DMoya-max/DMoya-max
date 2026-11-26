@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://portafolio-dmoya.vercel.app">
-<img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&weight=700&size=36&duration=2600&pause=1100&color=EF4444&vCenter=true&width=750&height=65&lines=Hey!+It's+Daniel!;Soy+Desarrollador+Web;Construyo+Experiencias+Web+Modernas;Python+%E2%80%A2+Django+%E2%80%A2+React+%E2%80%A2+Next.js" alt="Hey! It's Daniel!" />
+<img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&weight=700&size=36&duration=2600&pause=1100&color=EF4444&vCenter=true&width=750&height=65&lines=%C2%A1Hola!+Soy+Daniel;Soy+Desarrollador+Web;Construyo+Experiencias+Web+Modernas;Python+%E2%80%A2+Django+%E2%80%A2+React+%E2%80%A2+Next.js" alt="¡Hola! Soy Daniel" />
 </a>
 
 ### 👨‍💻 Sobre mí
